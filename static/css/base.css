@@ -169,6 +169,13 @@ a.category-badge > span.badge:hover {
     height: 100px;
     overflow-x: hidden;
     overflow-y: auto;
+}
+
+/* bag notification */
+.bag-notification-wrapper {
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
 } 
 
 /* -------------------------------- Media Queries */ 
