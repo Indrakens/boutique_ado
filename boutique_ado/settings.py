@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-kxq4*!x#pw4w()9+f!z^ti^dg)r8)+oxzyeqkk@+!w8liavi!%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-indrakens-boutiqueado-a35tgm8vkqj.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['8000-indrakens-boutiqueado-es4riiiv1zy.ws-eu106.gitpod.io']
 
 
 # Application definition
@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'home',
     'products', 
     'bag',
+    'checkout',
 ]
 
 MIDDLEWARE = [
